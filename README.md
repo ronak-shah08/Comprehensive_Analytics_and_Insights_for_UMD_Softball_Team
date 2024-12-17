@@ -12,9 +12,11 @@ This project provides a comprehensive analysis of the [University of Maryland So
 
 **2. Project Presentation [(PDF)][PDF2]** – A presentation summarizing the project's key findings and methodology.
 
-**4. Data Cleaning Scripts [(SQL)][SQL]** – SQL script used for data cleaning, preparation, and transformation.
+**3. Data Cleaning Scripts [(SQL)][SQL1]** – SQL script used for data cleaning, preparation, and transformation.
 
-**5. Analytics Dashboard (Tableau)** – The Tableau workbook containing visualizations of the data.
+**4. Table_Creation_Script [(SQL)][SQL2]** – SQL script used to create tables for organizing data in a relational database.
+
+**5. Data_Insertion_Script [(SQL)][SQL3]** – SQL script used to populate the database with cleaned and processed data.
 
 **6. Project Documentation [(PDF)][PDF3]** – A comprehensive documentation file covering data sources, references, and instructions on how to test the project with screenshots.
 
@@ -54,5 +56,7 @@ Future iterations of this project could include:
 [PDF1]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Analytics%20Report.pdf
 [PDF2]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Project%20Presentation.pdf
 [PDF3]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Project%20Documentation.pdf
-[SQL]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Data%20Cleaning%20Scripts.sql
+[SQL1]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Data%20Cleaning%20Scripts.sql
+[SQL2]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Table%20Creation%20Script.sql
+[SQL3]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Data%20Insertion%20Script.sql
 [TXT]: https://github.com/ronak-shah08/Comprehensive_Analytics_and_Insights_for_UMD_Softball_Team/blob/main/Softball%20Match%20Data.txt
